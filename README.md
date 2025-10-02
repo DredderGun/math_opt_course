@@ -1,2 +1,3 @@
-# math_opt_course
-Mathematical optimization course
+# Mathematical optimization course
+
+Jupyter notebooks on mathematical optimization
